@@ -54,6 +54,8 @@ export default function App() {
           Send
         </Button>
       </form>
+      <br />
+      <br />
       <form onSubmit={callMaxx}>
         <Input
           className="roomInput"
@@ -70,6 +72,8 @@ export default function App() {
           Send
         </Button>
       </form>
+      <br />
+      <br />
       <Button
         className="SignInButton"
         size="large"
